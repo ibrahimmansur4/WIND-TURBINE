@@ -1,1 +1,2 @@
 # WIND-TURBINE
+This part of the project was to move the wind turbine automatically in the direction where the wind was coming from. The idea behind it was to maximize the efficiency of the wind turbine and generate maximum power without being physically present to change direction. To go about this module, we had to choose a mechanism and after some research the answer came out to be a rotary encoder KY-040.
